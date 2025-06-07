@@ -6,7 +6,11 @@ Este projeto implementa diferentes modelos de redes neurais para classificação
 Os script foram executados utilizando [ROCm](https://dl.acm.org/doi/10.1145/3658644.3670285)
 
 Apesar de parecer que está buscando "CUDA", o PyTorch com ROCm mapeia internamente isso para a GPU AMD corretamente, desde que:
-- O PyTorch tenha sido instalado com suporte a ROCm (ex: pip install torch --index-url https://download.pytorch.org/whl/rocm5.7) e você esteja com HIP_VISIBLE_DEVICES e drivers ROCm corretamente configurados.
+- O PyTorch tenha sido instalado com suporte a ROCm e você esteja com `HIP_VISIBLE_DEVICES` e drivers ROCm corretamente configurados.
+
+```bash
+pip install torch --index-url https://download.pytorch.org/whl/rocm5.7)
+``` 
 
 ## Estrutura do Projeto
 
