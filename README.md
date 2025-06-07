@@ -9,7 +9,7 @@ Apesar de parecer que está buscando "CUDA", o PyTorch com ROCm mapeia intername
 - O PyTorch tenha sido instalado com suporte a ROCm e você esteja com `HIP_VISIBLE_DEVICES` e drivers ROCm corretamente configurados.
 
 ```bash
-pip install torch --index-url https://download.pytorch.org/whl/rocm5.7)
+pip install torch --index-url https://download.pytorch.org/whl/rocm5.7
 ``` 
 
 ## Estrutura do Projeto
