@@ -84,7 +84,8 @@ librosa
 
 Você pode utilizar os arquivos .py seguindo os nomes, como `mlp` ou os outros modelos: `cnn`, `rnn`, `lstm` ou `gru`.
 
-3. Para visualizar análises, utilize os notebooks na pasta `views/metrics.py`.
+3. Para visualizar análises, utilize o script na pasta `views/metrics.py`.
+4. Para executar as matrizes de confusão, utilize o script na pasta `views/confusion.py`.
 
 ## Datasets Utilizados
 
