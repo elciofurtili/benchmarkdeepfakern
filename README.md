@@ -95,6 +95,6 @@ Você pode utilizar os arquivos .py seguindo os nomes, como `mlp` ou os outros m
 |Vocoder|2024|MLADDC<br>[Paper](https://openreview.net/forum?id=ic3HvoOTeU) [Dataset](https://speech007.github.io/MLADDC_Nips/)|80k/160k|Multi-lingual|
 |VC, Replay<br>and Adversarial|2024|VSASV<br>[Paper](https://www.isca-archive.org/interspeech_2024/hoang24b_interspeech.html) [Dataset](https://github.com/hustep-lab/VSASV-Dataset)|164,000/174,000|Multi-lingual|
 
-## Artiggo Relacionado
+## Artigo Relacionado
 
 Artigo gerado com os dados provenientes desses códigos para a matéria de Rede Neurais: [Artigo](https://github.com/elciofurtili/benchmarkdeepfakern/blob/main/artigo.pdf)
