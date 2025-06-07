@@ -97,4 +97,4 @@ Você pode utilizar os arquivos .py seguindo os nomes, como `mlp` ou os outros m
 
 ## Artigo Relacionado
 
-Artigo gerado com os dados provenientes desses códigos para a matéria de Rede Neurais: [Artigo](https://github.com/elciofurtili/benchmarkdeepfakern/blob/main/artigo.pdf)
+Artigo gerado com os dados provenientes desses códigos para a matéria de Redes Neurais: [Artigo](https://github.com/elciofurtili/benchmarkdeepfakern/blob/main/artigo.pdf)
