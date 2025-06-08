@@ -15,7 +15,7 @@ pip install torch --index-url https://download.pytorch.org/whl/rocm5.7
 ## Estrutura do Projeto
 
 ```
-/audio-classification-project
+/benchmarkdeepfakern
 ├── models/                        # Código dos modelos de redes neurais
 │   ├── mlp.py
 │   ├── cnn.py
