@@ -3,7 +3,7 @@
 
 Este projeto implementa diferentes modelos de redes neurais para classificação de áudios, com foco em reconhecimento e análise de características sonoras. Os modelos implementados incluem MLP, CNN, RNN, LSTM e GRU, e são avaliados por métricas padrão de aprendizado de máquina.
 
-Os script foram executados utilizando [ROCm](https://dl.acm.org/doi/10.1145/3658644.3670285)
+Os script foram executados utilizando [ROCm](https://github.com/ROCm/ROCm)
 
 Apesar de parecer que está buscando "CUDA", o PyTorch com ROCm mapeia internamente isso para a GPU AMD corretamente, desde que:
 - O PyTorch tenha sido instalado com suporte a ROCm e você esteja com `HIP_VISIBLE_DEVICES` e drivers ROCm corretamente configurados.
